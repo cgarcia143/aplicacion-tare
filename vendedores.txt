@@ -1,0 +1,6 @@
+PP;51287700;Cristian;Moreno Vargas
+CC;27968893;Miguel;Torres Sanchez
+PP;14350682;Daniela;Vargas Sanchez
+CC;55125927;Sebastian;Rodriguez Garcia
+CE;78444081;Diego;Lopez Garcia
+CC;37839463;Daniela;Martinez Perez

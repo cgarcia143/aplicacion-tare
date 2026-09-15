@@ -1,0 +1,23 @@
+ENTREGA 2 - DOCUMENTO DE PARTES PENDIENTES
+
+Este archivo cumple el requisito de la entrega 2: indicar que partes pueden
+seguir refinandose de cara a la entrega 3 y la sustentacion.
+
+El proyecto ya incluye:
+1. Documentacion JavaDoc en las clases principales.
+2. Practicas de nombramiento y espaciado.
+3. Reporte CSV de vendedores ordenado por recaudo (mayor a menor).
+4. Reporte CSV de productos ordenado por cantidad vendida (descendente).
+5. GenerateInfoFiles con createSalesMenFile, createProductsFile y
+   createSalesManInfoFile.
+6. Extras: mas de un archivo por vendedor, catalogo serializado (productos.ser)
+   y deteccion de formato erroneo o informacion incoherente (errores.log).
+
+Pendiente o por confirmar con el docente:
+- El formato exacto del "nombre" en reporte_vendedores.csv (hoy se usa
+  nombres + apellidos).
+- Si los productos con cantidad 0 deben aparecer o no en reporte_productos.csv
+  (hoy solo se listan productos vendidos).
+- Subir el proyecto a GitHub o Bitbucket y compartir el hipervinculo.
+- Revisar conslusion.txt con la experiencia final del grupo antes de la
+  sustentacion.

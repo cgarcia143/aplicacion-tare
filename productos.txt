@@ -1,0 +1,12 @@
+P1;Sal refinada 1kg;25000
+P2;Cereal de maiz 400g;34500
+P3;Chocolate de mesa;31000
+P4;Leche entera 1L;37500
+P5;Cafe molido 500g;25500
+P6;Pasta spaghetti 500g;38000
+P7;Papel higienico x12;35500
+P8;Pan tajado integral;41000
+P9;Queso mozzarella 500g;36500
+P10;Aceite vegetal 1L;8000
+P11;Arroz premium 5kg;36500
+P12;Agua embotellada 6L;29500
