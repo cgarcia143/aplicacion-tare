@@ -1,8 +1,0 @@
-1. Lo aprendido durante el desarrollo del proyecto
-Se practico la lectura y escritura de archivos de texto plano en Java 8, el modelado de entidades simples (vendedor y producto), el cruce de informacion entre varios archivos y la generacion de reportes CSV ordenados. Tambien se aplicaron convenciones de documentacion JavaDoc, nombres descriptivos y separacion de responsabilidades: una clase genera datos de prueba y otra produce los reportes.
-
-2. Posibles aplicaciones en la vida profesional
-El mismo esquema sirve para consolidar ventas, inventarios o comisiones a partir de archivos exportados por distintos sistemas. Validar formato, detectar ids inexistentes y acumular totales por persona o por producto es un patron habitual en integraciones, auditorias y tableros operativos. La serializacion permite conservar un catalogo entre ejecuciones cuando no hay base de datos.
-
-3. Dificultades presentadas durante el desarrollo del proyecto
-Hubo que respetar restricciones del enunciado que no son habituales en un proyecto profesional: exactamente dos clases con metodo main, una de ellas llamada main, ausencia total de entrada por consola y archivos de ventas en la misma carpeta del programa. Otra dificultad fue hacer coherentes los datos pseudoaleatorios (documentos unicos, productos referenciados que si existan) y, a la vez, detectar archivos mal formados sin detener todo el proceso.
