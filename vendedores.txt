@@ -1,6 +1,6 @@
-PP;51287700;Cristian;Moreno Vargas
-CC;27968893;Miguel;Torres Sanchez
-PP;14350682;Daniela;Vargas Sanchez
-CC;55125927;Sebastian;Rodriguez Garcia
-CE;78444081;Diego;Lopez Garcia
-CC;37839463;Daniela;Martinez Perez
+PP;62734987;Carolina;Herrera Castro
+CE;76518687;Felipe;Vargas Diaz
+CC;15510648;Carlos;Diaz Moreno
+CE;30484887;Miguel;Castro Sanchez
+PP;61641928;Carlos;Sanchez Diaz
+CE;56068963;Laura;Ramirez Perez
